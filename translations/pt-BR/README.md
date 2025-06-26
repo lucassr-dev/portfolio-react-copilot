@@ -4,7 +4,7 @@
 
 _Crie, personalize e publique seu próprio portifólio web em minutos._  ✨
 
-Neste repositório de modelo temos o ambiente de desenvolvimento e uma base de código definida e preparada para execução. Para que você possa iniciar imediatamente seu ambiente [Codespace](https://github.com/features/codespaces/) e começar a personalizar seu site usando o [Copilot](https://copilot.github.com) para ajudá-lo a escrever código mais rápido.
+Neste repositório de modelo temos o ambiente de desenvolvimento e uma base de código definida e preparada para execução. Para que você possa iniciar imediatamente seu ambiente [Codespace](https://github.com/features/codespaces/) e começar a personalizar seu site usando o [Copilot](https://copilot.github.com) para ajudá-lo a escrever código mais rápido e criar um portfólio incrível.
 
 * **Para quem é isso?** _Para qualquer pessoa_ que está buscando criar seu portifólio web, deseja aprender desenvolvimento web ou testar o Codespaces.
 * **Quanta experiência precisa?** _Zero_. Você decide quanto deseja personalizar baseado em sua experiência e tempo disponível. 
